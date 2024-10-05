@@ -58,7 +58,7 @@ A simple and interactive web application that allows users to search for images 
 
 ## Deployment
 
-The Image Search App is deployed using Vercel. You can access the live application at [Insert your deployed link here].
+The Image Search App is deployed using Vercel. You can access the live application at https://image-search-app-omega-liart.vercel.app.
 
 ## Acknowledgments
 
